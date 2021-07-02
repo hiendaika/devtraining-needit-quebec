@@ -34,6 +34,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-12-03 01:00:34</sys_updated_on>
         <table_name/>
+        <virtual_field_value>false</virtual_field_value>
     </sys_sg_ui_parameter>
     <sys_translated_text action="delete_multiple" query="documentkey=3a46daec13e500100a0133e2e144b08a"/>
 </record_update>

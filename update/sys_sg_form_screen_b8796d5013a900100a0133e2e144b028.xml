@@ -4,13 +4,18 @@
         <data_item/>
         <description/>
         <dynamic_prefetch_count/>
+        <empty_state/>
         <fetch_type>not_required</fetch_type>
+        <filter/>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="By Request Type Icon">b4796d5013a900100a0133e2e144b024</icon>
         <item_view display_value="By Request Type Header Item View">38796d5013a900100a0133e2e144b026</item_view>
         <name>By Request Type</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
         <roles_override/>
+        <segments_height/>
+        <segments_min_width/>
         <sys_class_name>sys_sg_form_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-12-02 02:51:50</sys_created_on>
@@ -24,6 +29,8 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-12-02 03:26:59</sys_updated_on>
         <table>x_58872_needit_needit</table>
+        <use_view_config>false</use_view_config>
+        <view_config/>
     </sys_sg_form_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=b8796d5013a900100a0133e2e144b028"/>
 </record_update>

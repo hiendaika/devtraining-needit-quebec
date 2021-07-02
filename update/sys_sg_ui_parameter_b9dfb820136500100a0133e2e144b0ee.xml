@@ -34,6 +34,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-12-02 18:29:50</sys_updated_on>
         <table_name>x_58872_needit_needit</table_name>
+        <virtual_field_value>false</virtual_field_value>
     </sys_sg_ui_parameter>
     <sys_translated_text action="delete_multiple" query="documentkey=b9dfb820136500100a0133e2e144b0ee"/>
 </record_update>

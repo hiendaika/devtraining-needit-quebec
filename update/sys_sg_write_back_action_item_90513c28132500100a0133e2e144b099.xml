@@ -3,6 +3,7 @@
         <description>Action Item to update the Short description field value on a NeedIt record.</description>
         <execution_script/>
         <name>Update NeedIt Short description</name>
+        <parameter_screen/>
         <query_condition/>
         <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -20,6 +21,7 @@
         <template>short_description={{Update Short description}}^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
     </sys_sg_write_back_action_item>
     <sys_translated_text action="delete_multiple" query="documentkey=90513c28132500100a0133e2e144b099"/>
 </record_update>

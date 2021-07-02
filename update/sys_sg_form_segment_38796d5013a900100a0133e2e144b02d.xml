@@ -2,6 +2,8 @@
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Details">70796d5013a900100a0133e2e144b02b</embedded_screen>
         <form display_value="By Request Type">b8796d5013a900100a0133e2e144b028</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
         <order>10</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>

@@ -3,6 +3,7 @@
         <description>Action Item to create NeedIt records</description>
         <execution_script/>
         <name>Create NeedIt</name>
+        <parameter_screen/>
         <query_condition/>
         <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -20,6 +21,7 @@
         <template>description={{Description}}^u_request_type={{Request type}}^u_requested_for={{Requested for}}^u_requested_for_email={{Requested for email}}^short_description={{Short description}}^u_what_needed={{What needed}}^u_when_needed={{When needed}}^EQ</template>
         <type>new</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
     </sys_sg_write_back_action_item>
     <sys_translated_text action="delete_multiple" query="documentkey=7a598a2813e500100a0133e2e144b033"/>
 </record_update>
